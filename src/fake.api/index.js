@@ -1,5 +1,5 @@
-import * as users from "./user.api.js"
+import * as users from "./user.api.js";
 const API = {
     users
-}
-export default API
+};
+export default API;
